@@ -40,7 +40,7 @@ document.getElementById("submit").addEventListener('click',() => {
 
         let div=document.createElement("div");
 
-        div.className="my-border shadow-lg p-3";
+        div.className="my-border shadow-lg p-3 h-100";
 
         let h3=document.createElement("h3");
 
